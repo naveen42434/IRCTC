@@ -121,9 +121,7 @@ python run.py
 **Endpoint:** `POST /train/add`
 
 **Headers:**
-```json
-"Api-Key": <admin_api_key>
-```
+- `Api-Key`: `<admin_api_key>`
 
 **Request Body:**
 ```json
@@ -146,9 +144,7 @@ python run.py
 **Endpoint:** `POST /booking/book`
 
 **Headers:**
-```json
-"Authorization": Bearer <JWT_TOKEN>
-```
+- `Authorization`: `Bearer <JWT_TOKEN>`
 
 **Request Body:**
 ```json
@@ -162,8 +158,6 @@ python run.py
 **Endpoint:** `GET /booking/details`
 
 **Headers:**
-```json
-"Authorization": Bearer <JWT_TOKEN>
-```
+- `Authorization`: `Bearer <JWT_TOKEN>`
 
 ---
