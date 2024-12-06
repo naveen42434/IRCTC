@@ -122,7 +122,7 @@ python run.py
 
 **Headers:**
 ```json
-Api-Key: <admin_api_key>
+"Api-Key": <admin_api_key>
 ```
 
 **Request Body:**
@@ -147,7 +147,7 @@ Api-Key: <admin_api_key>
 
 **Headers:**
 ```json
-Authorization: Bearer <JWT_TOKEN>
+"Authorization": Bearer <JWT_TOKEN>
 ```
 
 **Request Body:**
@@ -163,7 +163,7 @@ Authorization: Bearer <JWT_TOKEN>
 
 **Headers:**
 ```json
-Authorization: Bearer <JWT_TOKEN>
+"Authorization": Bearer <JWT_TOKEN>
 ```
 
 ---
